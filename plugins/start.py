@@ -112,7 +112,7 @@ async def start_command(client: Bot, message: Message):
             )
 
             note_msg = await message.reply_text(
-                "<u><b>Note: If the link is expired, please click the post link again to get a new one.</b></u>",
+                "<u><b>Note: This link is expired in 5 Minutes, please click the post link again to get a new one.</b></u>",
                 parse_mode=ParseMode.HTML
             )
 
