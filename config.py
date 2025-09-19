@@ -42,12 +42,11 @@ ABOUT_TXT = """<b>›› ᴄᴏᴍᴍᴜɴɪᴛʏ: <a href=''>ᴏᴛᴀᴋᴜғ�
 ›› ᴅᴀᴛᴀʙᴀsᴇ: <a href='https://www.mongodb.com/docs/'>Mᴏɴɢᴏ ᴅʙ</a>
 ›› ᴅᴇᴠᴇʟᴏᴘᴇʀ: @ProYato</b></blockquote>""" # Bhosdiwalo agar developer me Yato ka username hataya to agli baar se koi repo public nhi krunga!!
 
-CHANNELS_TXT = """<b>›› ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ: <a href=''>ᴀɴɪᴍᴇ ᴄʀᴜɪsᴇ</a>
-<blockquote expandable>›› ᴍᴏᴠɪᴇs: <a href=''>ᴍᴏᴠɪᴇғʟɪx sᴘᴏᴛ</a>
-›› ᴡᴇʙsᴇʀɪᴇs: <a href=''>ᴡᴇʙsᴇʀɪᴇs ғʟɪx</a>
-›› ᴀᴅᴜʟᴛ ᴄʜᴀɴɴᴇʟs: <a href=''>ᴄᴏʀɴʜᴜʙ</a>
-›› ᴍᴀɴʜᴡᴀ ᴄʜᴀɴɴᴇʟ: <a href=''>ᴘᴏʀɴʜᴡᴀ</a>
-›› ᴄᴏᴍᴍᴜɴɪᴛʏ: <a href=''>ᴏᴛᴀᴋᴜғʟɪx</a>
+CHANNELS_TXT = """<b>›› ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/QT_LINK_BOT?start=req_LTEwMDE5Njc3MTEzNjk'>ᴀɴɪᴍᴇ ᴄʀᴜɪsᴇ</a>
+<blockquote expandable>›› ᴍᴏᴠɪᴇs: <a href='https://t.me/QT_LINK_BOT?start=req_LTEwMDIwNTcyNTU5OTY'>ᴍᴏᴠɪᴇғʟɪx sᴘᴏᴛ</a>
+›› ᴡᴇʙsᴇʀɪᴇs: <a href='https://t.me/QT_LINK_BOT?start=LTEwMDE5NzY0MTU2NjE='>ᴡᴇʙsᴇʀɪᴇs ғʟɪx</a>
+›› ᴀᴅᴜʟᴛ ᴄʜᴀɴɴᴇʟs: <a href='https://t.me/QT_LINK_BOT?start=req_LTEwMDIxMTUwNTUzMDM'>ᴄᴏʀɴʜᴜʙ</a>
+›› ᴄᴏᴍᴍᴜɴɪᴛ: <a href='https://t.me/qt_anime_group'>ᴄʜᴀᴛ ɢʀᴏᴜᴘ</a>
 ›› ᴅᴇᴠᴇʟᴏᴘᴇʀ: @ProYato</b></blockquote>""" # Bhosdiwalo agar developer me Yato ka username hataya to agli baar se koi repo public nhi krunga!!
 
 #--- ---- ---- --- --- --- - -- -  - - - - - - - - - - - --  - -
