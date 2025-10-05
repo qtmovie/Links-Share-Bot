@@ -7,7 +7,8 @@ from pyrogram import Client, filters
 from pyrogram.enums import ParseMode, ChatMemberStatus, ChatAction
 from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton, CallbackQuery, InputMediaPhoto
 from pyrogram.errors import FloodWait, UserNotParticipant
-
+from pyrogram.errors import UserIsBlocked, InputUserDeactivated, FloodWait, PeerIdInvalid, RPCError
+from pyrogram.errors.exceptions.bad_request_400 import UserNotParticipant
 from bot import Bot
 from datetime import datetime, timedelta
 from config import *
@@ -112,7 +113,7 @@ async def start_command(client: Bot, message: Message):
             )
 
             note_msg = await message.reply_text(
-                "<u><b>Note: This link is expired in 5 Minutes, please click the post link again to get a new one.</b></u>",
+                "<u><b>Note: If the link is expired, please click the post link again to get a new one.</b></u>",
                 parse_mode=ParseMode.HTML
             )
 
