@@ -68,21 +68,17 @@ async def start_command(client: Bot, message: Message):
             # Check if this is a /genlink link (original_link exists)
             from database.database import get_original_link
             original_link = await get_original_link(channel_id)
-        if original_link:
-    button = InlineKeyboardMarkup(
-        [[InlineKeyboardButton("• Proceed to Link •", url=original_link)]]
-    )
-
-    proceed_msg = await message.reply_text(
-        "<b><blockquote expandable>ʜᴇʀᴇ ɪs ʏᴏᴜʀ ʟɪɴᴋ! ᴄʟɪᴄᴋ ʙᴇʟᴏᴡ ᴛᴏ ᴘʀᴏᴄᴇᴇᴅ</b>",
-        reply_markup=button,
-        parse_mode=ParseMode.HTML
-    )
-
-    # Auto delete after 1 minute
-    asyncio.create_task(delete_after_delay(proceed_msg, 60))
-
-    return
+            if original_link:
+                button = InlineKeyboardMarkup(
+                    [[InlineKeyboardButton("• Proceed to Link •", url=original_link)]]
+                )
+                sent_msg = await message.reply_text(
+                    "<b><blockquote expandable>ʜᴇʀᴇ ɪs ʏᴏᴜʀ ʟɪɴᴋ! ᴄʟɪᴄᴋ ʙᴇʟᴏᴡ ᴛᴏ ᴘʀᴏᴄᴇᴇᴅ</b>",
+                    reply_markup=button,
+                    parse_mode=ParseMode.HTML
+                )
+                asyncio.create_task(delete_after_delay(sent_msg, 60))
+                return
 
             old_link_info = await get_current_invite_link(channel_id)
             if old_link_info:
