@@ -77,7 +77,7 @@ async def start_command(client: Bot, message: Message):
                     reply_markup=button,
                     parse_mode=ParseMode.HTML
                 )
-                asyncio.create_task(delete_after_delay(sent_msg, 10))
+                asyncio.create_task(delete_after_delay(sent_msg, 15))
                 return
 
             old_link_info = await get_current_invite_link(channel_id)
