@@ -40,14 +40,14 @@ ABOUT_TXT = """<b>›› ᴄᴏᴍᴍᴜɴɪᴛʏ: <a href=''>ᴏᴛᴀᴋᴜғ�
 ›› ʟᴀɴɢᴜᴀɢᴇ: <a href='https://docs.python.org/3/'>Pʏᴛʜᴏɴ 3</a>
 ›› ʟɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ ᴠ2</a>
 ›› ᴅᴀᴛᴀʙᴀsᴇ: <a href='https://www.mongodb.com/docs/'>Mᴏɴɢᴏ ᴅʙ</a>
-›› ᴅᴇᴠᴇʟᴏᴘᴇʀ: @ProYato</b></blockquote>""" # Bhosdiwalo agar developer me Yato ka username hataya to agli baar se koi repo public nhi krunga!!
+›› ᴅᴇᴠᴇʟᴏᴘᴇʀ: @ ProYato</b></blockquote>""" # Bhosdiwalo agar developer me Yato ka username hataya to agli baar se koi repo public nhi krunga!!
 
-CHANNELS_TXT = """<b>›› ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/QT_LINK_BOT?start=req_LTEwMDE5Njc3MTEzNjk'>ᴀɴɪᴍᴇ ᴄʀᴜɪsᴇ</a>
+CHANNELS_TXT = """<b>›› ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/qt_anime'>ᴀɴɪᴍᴇ ᴄʀᴜɪsᴇ</a>
 <blockquote expandable>›› ᴍᴏᴠɪᴇs: <a href='https://t.me/QT_LINK_BOT?start=req_LTEwMDIwNTcyNTU5OTY'>ᴍᴏᴠɪᴇғʟɪx sᴘᴏᴛ</a>
-›› ᴡᴇʙsᴇʀɪᴇs: <a href='https://t.me/QT_LINK_BOT?start=LTEwMDE5NzY0MTU2NjE='>ᴡᴇʙsᴇʀɪᴇs ғʟɪx</a>
-›› ᴀᴅᴜʟᴛ ᴄʜᴀɴɴᴇʟs: <a href='https://t.me/QT_LINK_BOT?start=req_LTEwMDIxMTUwNTUzMDM'>ᴄᴏʀɴʜᴜʙ</a>
-›› ᴄᴏᴍᴍᴜɴɪᴛ: <a href='https://t.me/qt_anime_chat'>ᴄʜᴀᴛ ɢʀᴏᴜᴘ</a>
-›› ᴅᴇᴠᴇʟᴏᴘᴇʀ: @ProYato</b></blockquote>""" # Bhosdiwalo agar developer me Yato ka username hataya to agli baar se koi repo public nhi krunga!!
+›› ᴡᴇʙsᴇʀɪᴇs: <a href='https://t.me/webseriesoi'>ᴡᴇʙsᴇʀɪᴇs ғʟɪx</a>
+›› ᴀᴅᴜʟᴛ ᴄʜᴀɴɴᴇʟs: <a href='https://t.me/naughty_hot_girllls'>ᴄᴏʀɴʜᴜʙ</a>
+›› ᴄᴏᴍᴍᴜɴɪᴛ: <a href='https://t.me/QTAnime_Group'>ᴄʜᴀᴛ ɢʀᴏᴜᴘ</a>
+›› ᴅᴇᴠᴇʟᴏᴘᴇʀ: @ ProYato</b></blockquote>""" # Bhosdiwalo agar developer me Yato ka username hataya to agli baar se koi repo public nhi krunga!!
 
 #--- ---- ---- --- --- --- - -- -  - - - - - - - - - - - --  - -
 # Default
